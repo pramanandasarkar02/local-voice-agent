@@ -1,0 +1,12 @@
+2025-12-27 12:56:44.657 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 12:57:43.787 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:00:25.162 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:00:45.523 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:00:45.523 | INFO     | app.stt.whisper_stt:__init__:7 - Loading Whisper model...
+2025-12-27 13:01:04.596 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:01:04.597 | INFO     | app.stt.whisper_stt:__init__:7 - Loading Whisper model...
+2025-12-27 13:02:54.971 | INFO     | app.stt.whisper_stt:__init__:9 - Whisper model loaded
+2025-12-27 13:07:41.320 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:09:41.905 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 13:13:27.323 | INFO     | __main__:main:11 - Starting Local Voice Agent
+2025-12-27 16:11:03.278 | INFO     | __main__:main:11 - Starting Local Voice Agent
