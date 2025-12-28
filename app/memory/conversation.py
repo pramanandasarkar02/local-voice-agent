@@ -7,3 +7,6 @@ class Memory:
 
     def context(self):
         return "\n".join(self.history[-5:])
+    
+    def showHistory(self):
+        print("\n".join(self.history))
